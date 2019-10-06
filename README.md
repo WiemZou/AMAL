@@ -1,5 +1,6 @@
 Advanced MAchine Learning & Deep Learning
 
+Cette UE vise à aborder les concepts suivants:
 
     Deep learning:
         -Architectures de réseaux de neurones profonds
