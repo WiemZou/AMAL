@@ -1,4 +1,5 @@
-#AMAL
+# AMAL
+
 Advanced MAchine Learning & Deep Learning
 
 Cette UE vise à aborder les concepts suivants:
